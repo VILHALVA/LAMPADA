@@ -1,9 +1,9 @@
 # LAMPADA
 👨‍🏫PROJETO FEITO PARA O CURSO DE HTML E CSS DO CURSO EM VIDEO.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br><br>
-<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br><br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="300"> <br><br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="300"> <br><br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
 O projeto "Lâmpada" apresenta uma lâmpada interativa que pode ser controlada pelo usuário. Aqui estão os recursos principais do projeto:
